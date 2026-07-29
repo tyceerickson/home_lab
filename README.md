@@ -101,7 +101,7 @@ A dedicated out-of-band interface with a single-host allowlist (192.168.99.50/32
 
 This lab was designed and built by a security practitioner with:
 - **CompTIA Security+**, **Network+**, **ISC2 CC**
-- BS in Management Information Systems — Weber State University (3.69 GPA)
+- BS in Management Information Systems — Weber State University (3.77 GPA)
 - Entering **CMU MSISPM** Fall 2026
 
 ---
